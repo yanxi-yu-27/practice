@@ -6,4 +6,5 @@ print('sunkyu')
 
 print('name')
 
-"""testing"""
+for i in range(10):
+    print(i)
