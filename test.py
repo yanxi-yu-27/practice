@@ -6,4 +6,4 @@ print('sunkyu')
 
 print('name')
 
-"""testing"""
+print("help")
